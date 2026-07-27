@@ -1,0 +1,22 @@
+# Hotel Tonight
+
+> HotelTonight is a last-minute hotel booking service (founded 2010, San Francisco; acquired by Airbnb in 2019) offering curated same-day and near-term deals on boutique and independent hotels through its mobile app and website. This profile is maintained by API Evangelist; HotelTonight's API surface is a partner/agent-facing portal, not a publicly documented API.
+
+## Company
+- Website: https://www.hoteltonight.com
+- About: https://www.hoteltonight.com/about
+- Hotel Partners: https://www.hoteltonight.com/hotel-partners
+- Customer Support: https://www.hoteltonight.com/customer-support
+- Terms of Use: https://www.hoteltonight.com/terms-of-use
+- Privacy Policy: https://www.hoteltonight.com/terms-of-use/privacy-policy
+- Security / Disclosure: https://www.hoteltonight.com/terms-of-use/security
+
+## API / Developer
+- Partner API Docs (auth-gated agent portal): https://api-docs.hoteltonight.com/
+- API host: https://api.hoteltonight.com
+- GitHub Organization: https://github.com/hoteltonight
+
+## Notes
+- No public OpenAPI/Swagger specification is published; the documentation portal requires partner-agent credentials.
+- The GitHub organization publishes first-party open-source iOS/UI libraries (e.g. HTKit, HTAutocompleteTextField), not booking-API client SDKs.
+- Payment handling is PCI compliant per the published security page.

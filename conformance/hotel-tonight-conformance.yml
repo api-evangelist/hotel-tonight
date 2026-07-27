@@ -1,0 +1,10 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.hoteltonight.com/terms-of-use/security
+standards:
+- id: pci-dss
+  conforms: true
+  evidence: Security page states HotelTonight maintains PCI compliance for payment card data protection.
+- id: responsible-disclosure
+  conforms: true
+  evidence: Public responsible-disclosure process published with security@hoteltonight.com contact.
