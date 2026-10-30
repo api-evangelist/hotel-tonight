@@ -64,6 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hotel Tonight is a company surfaced as a portfolio company of accel, ggv-capital and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+HotelTonight is a last-minute hotel booking service founded in 2010 in San Francisco and acquired by Airbnb in 2019 for a reported $400 million. Through its mobile app and website it offers curated same-day and near-term deals on boutique, independent, and chain hotels across thousands of cities worldwide, with more than 15 million app downloads. Its developer surface is a partner/agent-facing portal (api-docs.hoteltonight.com) rather than a publicly documented API; this profile is maintained in the API Evangelist network as an enrichment lead.
 
-Backed by: accel, ggv-capital — http://www.hoteltonight.com
+**Areas:** Company · Consumer · Travel · Hotels · Booking · Hospitality · Mobile · Airbnb
+
+## Hotel Tonight on APIs.io
+
+Everything profiled for Hotel Tonight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hotel-tonight/](https://apis.io/providers/hotel-tonight/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [HotelTonight Partner API](https://apis.io/apis/hotel-tonight/hoteltonight-partner-api/) — Auth-gated partner/agent API portal for HotelTonight hotel supply and booking operations. Requires partner-agent credentials; no public OpenAPI is published.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hotel Tonight Authentication](https://apis.io/security/hotel-tonight/hotel-tonight-authentication/)
+- [Hotel Tonight Domain Security](https://apis.io/security/hotel-tonight/hotel-tonight-domain-security/)
+- [Hotel Tonight Vulnerability Disclosure](https://apis.io/security/hotel-tonight/hotel-tonight-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hoteltonight.com)
+- [Documentation](https://api-docs.hoteltonight.com/)
+- [Sign up](https://www.hoteltonight.com/hotel-partners)
+- [Support](https://www.hoteltonight.com/customer-support)
+- [Security](https://www.hoteltonight.com/terms-of-use/security)
+- [Compliance](https://www.hoteltonight.com/terms-of-use/security)
+- [Terms of service](https://www.hoteltonight.com/terms-of-use)
+- [Privacy policy](https://www.hoteltonight.com/terms-of-use/privacy-policy)
+- [GitHub](https://github.com/hoteltonight)
+
+## API Evangelist rating
+
+**Kin Score 31.2** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 42.1 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hotel-tonight/](https://apis.io/providers/hotel-tonight/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hotel Tonight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hotel-tonight/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
